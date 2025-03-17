@@ -1,18 +1,20 @@
 ## Hi, I m Sonia 👋
 
 - 🏩 I'm studying at 42 school in Paris.
-- 🌱 I 'm have finished commun core projects ( C/C++
-- 🚀 I'm currently working at Kickmaker, doing a consulting mission for Bull on a supercomputer
-- ❤️ In love with C/C++ languages
-![image](https://github.com/user-attachments/assets/f78292d6-24e9-4924-a803-2eaee116b935)
+- 🌱 I 'm have finished commun core projects ( C/C++/Docker)
+- 👯 I'm currently looking for internship for (4-6 months)
+- 📫 How to reach me : sonouelg@student.42.fr
+
 
 ## 42 projects
 
-On my GitHup repository, you will find **my best projects during my studies at 42 school** among the following categories:  
+On my GitHup repository, you will find **my projects at 42 school** .  
+[Docker](https://img.icons8.com/?size=42&id=cdYUlRaag9G9)
+![C](https://img.icons8.com/?size=42&id=40670) 
+ ![Cpp](https://img.icons8.com/?size=42&id=40669) 
+ ![Python](https://img.icons8.com/?size=42&id=13441)
 
-- Microcontroller programming (C)  
-- Linux programming (C/C++)  
-- Network  
+
 
 <!--
 **souelgha/souelgha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
