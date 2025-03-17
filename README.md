@@ -17,7 +17,7 @@ On my GitHub repository, you will find **my projects at 42 school** .
  ![Python](https://img.icons8.com/?size=42&id=13441)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llefranc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souelgha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **souelgha/souelgha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
