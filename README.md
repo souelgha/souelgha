@@ -1,15 +1,15 @@
-## Hi, I m Sonia 👋
+## Hi, I'm Sonia 👋
 
-- 🏩 I'm studying at 42 school in Paris.
-- 🌱 I 'm have finished commun core projects ( C/C++/Docker)
-- 👯 I'm currently looking for internship for (4-6 months)
+- 🏩 I'm studying at 42 school in Paris since nov2023.
+- 🌱 I have finished all Commun Core projects ( C/C++/Docker).
+- 👯 I'm currently looking for internship for (4-6 months).
 - 📫 How to reach me : sonouelg@student.42.fr
 
 
 ## 42 projects
 
-On my GitHup repository, you will find **my projects at 42 school** .  
-[Docker](https://img.icons8.com/?size=42&id=cdYUlRaag9G9)
+On my GitHub repository, you will find **my projects at 42 school** .  
+![Docker](https://img.icons8.com/?size=42&id=cdYUlRaag9G9)
 ![C](https://img.icons8.com/?size=42&id=40670) 
  ![Cpp](https://img.icons8.com/?size=42&id=40669) 
  ![Python](https://img.icons8.com/?size=42&id=13441)
