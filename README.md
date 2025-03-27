@@ -12,6 +12,9 @@ On my GitHub repository, you will find **my projects at 42 school** .
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souelgha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+**skills**
+![apercu](https://github.com/souelgha/images/blob/main/skills.png)
+
 **COMMUN CORE PROJECTS**
 
 |           | Center | Circle 1 | Circle 2  | Circle 3 | Circle 4 | Circle 5 | Circle 6 |
